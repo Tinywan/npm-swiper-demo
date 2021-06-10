@@ -1,7 +1,7 @@
 {
   "name": "tinywan-swiper-demo",
-  "version": "0.0.1",
-  "description": "Tinywan Npm Demo Test",
+  "version": "0.0.2",
+  "description": "Tinywan npm Demo Test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -20,9 +20,10 @@ npm init
 module.exports = 'This is my first NPM project';
 ```
 ## STEP2 publish  
-(1) npm login
-(2) npm publish
 
+(1) npm login
+
+(2) npm publish
 ## Install
 
 ```

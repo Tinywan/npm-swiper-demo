@@ -1,1 +1,1 @@
-module.exports = 'This is my first NPM project';
+module.exports = 'This is my second NPM project';
