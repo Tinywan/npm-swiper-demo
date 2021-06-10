@@ -10,11 +10,13 @@ login https://www.npmjs.com/ and create self account
 ```
 mkdir tinywan-swiper-demo && cd tinywan-swiper-demo
 ```
+
 (2) init
 ```
 npm init
 ```
 > auto create package.json file
+
 (3) add index.js file and add content
 ```
 module.exports = 'This is my first NPM project';
