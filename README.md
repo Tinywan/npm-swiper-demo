@@ -1,2 +1,7 @@
-# npm-swiper-test
-npm-swiper-test
+# npm-swiper-demo
+
+## Install
+
+```
+npm-swiper-demo
+```
